@@ -154,7 +154,7 @@ ul{
   /*overflow: hidden; /*tosolve float problem*/
 
 .header .logo {
-  width: 50%;
+  width: 40%;
   float: left;
 }
 .header .logo img {
@@ -162,7 +162,7 @@ ul{
   margin-top: 15px;
 }
 .header .nav {
-  width: 50%;
+  width: 60%;
   float: right;
   list-style: none;
   
